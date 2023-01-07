@@ -12,6 +12,10 @@
 
 ## Data Analysis using SQL
 
+## Model Creation in Tableau
+
+![image](https://user-images.githubusercontent.com/86125144/211152688-5d205690-1d09-4c2b-9387-892cd81f238a.png)
+
 
 ## Data cleaning in Tableau
 1. Sales Amount in Transcations table contain value -1 and 0 that is not possible may be some wrong data entry so we have to remove that row for better analysis.
